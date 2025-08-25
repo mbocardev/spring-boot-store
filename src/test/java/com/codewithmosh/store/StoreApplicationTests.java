@@ -1,4 +1,4 @@
-package com.bocardev.store;
+package com.codewithmosh.store;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
